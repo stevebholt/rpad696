@@ -1,11 +1,5 @@
 ---
-title: "rpad696"
+title: "RPAD 696 - Integrative Capstone Course"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to the course website for RPAD 696, your integrative capstone for the MPA program at Rockefeller College. Most of your course materials will be distributed through the courses' Brightspace; however, this course site contains the syllabus and links to any reading materials or supplemental course materials.

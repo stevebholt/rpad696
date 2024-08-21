@@ -1,0 +1,46 @@
+---
+title: "Individual Assignment"
+bibliography: references.bib
+---
+
+## Overview
+
+You are the Director of the Parks Department for Stratton County, a metropolitan county in upstate New York. Due to economic conditions and increasing costs, the County Executive has directed all departments, including Parks, to develop plans to *cut next year's operating budget by 10% from the current level*. Under the County's budget development calendar, executive agencies begin to develop their budget priorities for the upcoming year in early February and submit their proposals to the County Executive's office in early May. By law, the County Executive must submit his or her budget recommendation to the County Legislature by August 15th, for review (including at least one public hearing) and adoption prior to the start of the new fiscal year on September 1st. For the purposes of this assignment, you are delivering your recommendations as a report and presentation on May 4th. Of course, before generating a final report and set of recommendations, your agency will of course want to touch base with the community to get feedback and thoughts on your plan for the budget reductions. **For this assignment - due on February 28th - you will be creating a proposed set of budget changes, identifying important stakeholders for engagement, and developing a plan for engaging stakeholders.** You will be drawing on the case detailed in [Stratton County](stratton.qmd).
+
+## Details
+
+Your submission will involve three sections: a 1-page memo outlining your budget proposal, a 2-page summary of the major stakeholders that will be relevant to the budget decisions you've made, and a 3-page summary of how you will engage your stakeholders.
+
+### Budget Memo
+
+In your one page budget memo, you need to briefly and precisely establish two things. First, you need to outline where all of the cuts to the operating budget will be coming from and how you anticipate services to be impacted. Second, you need to explain *why* those areas were identified for reduction. Note that if you make any other accompanying changes to the budget, those should include those in this memo.
+
+::: callout-tip
+#### Tip - Budget Creativity
+
+While budgets are not often thought of as expressions of high art, as you have hopefully learned throughout your time here, there is room for creativity in public budgeting. When making decisions, note that it's possible to reduce some areas more than necessary and use the additional reduction to invest new resources somewhere else even in a time of overall budget reductions. Just a useful (though not required or always needed) tool to keep in mind.
+:::
+
+### Stakeholder Analysis
+
+In RPAD 500 (Foundations of Public Administration), you almost certainly read the @eden1998 chapter on stakeholder analysis. Here, you will once again be thinking about stakeholders using their framework - identify the four most important stakeholders given your budget proposal while considering their power to raise opposition or support to your efforts and their interest in the outcome of the final budget. In your analysis, be sure to detail the basis on which you are assessing each stakeholder's power and interest and whether they will be opponents or supporters.
+
+::: callout-important
+While this is based on a fictional case, remember that it was designed on real-world cases. When considering stakeholders' power and interest, do some research to ground your assessments. In similar budget situations, who tends to be most vocal and powerful according to research? How do similar groups behave or react in similar situations in other cities? What typically gets their support? A good analysis will ground itself in concrete measures and ways to think critically about the world.
+:::
+
+### Stakeholder Engagement
+
+Also in RPAD 500, you likely read @fung2003 and created a plan for engaging stakeholders before. In this assignment, you will once again be rolling out a plan for engaging your stakeholders. You will provide details about a schedule of meetings, outreach, a timeline for feedback and how feedback will be used, where and when meetings will be held, and how those meetings will be structured. More importantly, you will need to link this plan and its details to your budget goals and analysis of your stakeholders.
+
+:::{.callout-tip}
+#### Tip - Strategic Engagement
+One way to ensure productive engagement is to have a plan going in for how you will handle opposition. Identify some aspects of your budget proposal that are negotiable without activating too much opposition elsewhere. Another important aspect of strategy is clarifying and articulating what you hope to get out of the engagement. Is this collecting feedback or trying to bring awareness and context to a decision? Your approach should align with what you hope to get out of the engagement.
+:::
+
+## Format
+- 12-point Times New Roman
+- Standard 1" margins
+- APA formatting for citations
+- Single spaced
+- Name in top left corner of first page
