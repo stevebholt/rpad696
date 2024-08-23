@@ -19,6 +19,7 @@ website:
       style: "docked"
       search: true
       contents:
+        - assignments.qmd
         - individual.qmd
         - group.qmd
         
