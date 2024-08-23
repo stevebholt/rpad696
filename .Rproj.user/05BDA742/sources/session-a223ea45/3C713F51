@@ -3,11 +3,11 @@
     "path": "C:/Users/sbhst/OneDrive/sites/rpad696/group.qmd",
     "project_path": "group.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2686887954",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1724373595021.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 5,
     "properties": {
         "rmdVisualMode": "false",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1683031926,
+    "lastKnownWriteTime": 1724377205,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1724373604509,
+    "last_content_update": 1724377205804,
     "read_only": false,
     "read_only_alternatives": []
 }
