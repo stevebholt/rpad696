@@ -1,0 +1,57 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Eden",
+                    "given": "C"
+                },
+                {
+                    "family": "Ackermann",
+                    "given": "F"
+                }
+            ],
+            "id": "eden1998",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "page": "113-135",
+            "publisher": "Sage Publishing",
+            "publisher-place": "Thousand Oaks, CA",
+            "title": "Stakeholder analysis and management",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1111/1467-9760.00181",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/1467-9760.00181",
+            "author": [
+                {
+                    "family": "Fung",
+                    "given": "Archon"
+                }
+            ],
+            "container-title": "Journal of Political Philosophy",
+            "id": "fung2003",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003,
+                        9
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "338-367",
+            "title": "Survey Article: Recipes for Public Spheres: Eight Institutional Design Choices and Their Consequences",
+            "title-short": "Survey Article",
+            "type": "article-journal",
+            "volume": "11"
+        }
+    ],
+    "project_biblios": []
+}
