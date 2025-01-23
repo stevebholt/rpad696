@@ -3,9 +3,9 @@
     "path": "C:/Users/sh372234/OneDrive/sites/rpad696/group.qmd",
     "project_path": "group.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1277821794",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1737497814414.0,
     "source_on_save": true,
     "relative_order": 3,
@@ -20,11 +20,11 @@
         "scrollLine": "63"
     },
     "folds": "",
-    "lastKnownWriteTime": 1737663228,
+    "lastKnownWriteTime": 1737663763,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1737663731443,
+    "last_content_update": 1737663763821,
     "read_only": false,
     "read_only_alternatives": []
 }

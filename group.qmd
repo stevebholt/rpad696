@@ -68,10 +68,10 @@ As with any team project, it is helpful to have clear roles and responsibilities
 
 | Role | Responsibility |
 |:-------------------------------:|:-------------------------------------:|
-| Introduction, Executive Summary, and Editor | Write the Executive Summary and Introduction. <br/> Suggest edits and revisions to other sections strictly for flow and cohesion. <br/> Edit and provide one of the three proposed plans. |
-| Background and Related Research | Write the background and related research section. <br/> Edit and provide one of the three proposed plans (if relevant). |
-| Analysis and Recommendation | Write the analysis and recommendation section. <br/> Edit and provide one of the three proposed plans (if relevant). |
-| One Proposed Plan | Edit and provide on of the three proposed plans. <br/> Aid with finding and organizing background research for the background and analysis sections. |
+| Introduction, Executive Summary, Analysis, and Recommendation, and Editor | Write the Executive Summary and Introduction, Analysis, and Recommendation Sections. <br/> Suggest edits and revisions to other sections strictly for flow and cohesion. |
+| Background and Related Research and Status Quo Policy Alternative | Write the background and related research section. <br/> Describe the status quo policy in the issue area you are doing your capstone on. |
+| Alternative Proposed by Client (if relevant; an original policy alternative if client not proposing an alternative to the status quo) | Describe the policy alternative being proposed by the client, with documentation and relate to existing evidence and relevant stakeholders. |
+| Original Policy Alternative Proposed by Group | Describe a policy alternative proposed by the group and relate to existing evidence and relevant stakeholders. |
 
 Teams should plan to meet to assign roles, sign the [group role contract](contract.pdf), and submit the signed contract on Brightspace by midnight on March 8th.
 
@@ -80,6 +80,7 @@ Teams should plan to meet to assign roles, sign the [group role contract](contra
 As groups, you will prepare a 15-minute presentation of your final report. The presentation will be delivered in class on May 8th. A good presentation should be polished, on time, and should provide a clear overview of 1) the nature of the problem you are facing and the priorities you carried into resolving it (guided by your research), 2) the three alternatives you considered, and 3) your analysis of their trade-offs and final recommendation.
 
 You will turn in:
+
 A .PDF of your slides.
 
 Reminder on good presentation basics:
