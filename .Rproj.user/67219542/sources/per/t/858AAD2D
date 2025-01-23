@@ -1,14 +1,14 @@
 {
-    "id": "B08E6D59",
-    "path": "C:/Users/sh372234/OneDrive/sites/rpad696/syllabus696.qmd",
-    "project_path": "syllabus696.qmd",
+    "id": "858AAD2D",
+    "path": "C:/Users/sh372234/OneDrive/sites/rpad696/individual.qmd",
+    "project_path": "individual.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1821628323",
     "contents": "",
     "dirty": false,
-    "created": 1737490092090.0,
+    "created": 1737497509480.0,
     "source_on_save": true,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "112,702",
+        "cursorPosition": "7,768",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "69:315.3333435058594"
     },
     "folds": "",
-    "lastKnownWriteTime": 1737497444,
+    "lastKnownWriteTime": 1737497754,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1737497444143,
+    "last_content_update": 1737497754902,
     "read_only": false,
     "read_only_alternatives": []
 }
