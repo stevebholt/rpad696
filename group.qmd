@@ -77,12 +77,10 @@ Teams should plan to meet to assign roles, sign the [group role contract](contra
 
 ## Presentation
 
-As groups, you will prepare a 15-minute presentation of your final report. The presentation should be delivered via an unedited recording of a Zoom call with a shared screen for presenting slides. A good presentation should be polished, on time, and should provide a clear overview of 1) the nature of the problem you are facing and the priorities you carried into resolving it (guided by your research), 2) the three alternatives you considered, and 3) your analysis of their trade-offs and final recommendation.
+As groups, you will prepare a 15-minute presentation of your final report. The presentation will be delivered in class on May 8th. A good presentation should be polished, on time, and should provide a clear overview of 1) the nature of the problem you are facing and the priorities you carried into resolving it (guided by your research), 2) the three alternatives you considered, and 3) your analysis of their trade-offs and final recommendation.
 
 You will turn in:
-
-1\. A .MP4 file of the recording (I recommend making a practice video to make sure you know how to download and save the recording as an .MP4)\
-2. A .PDF of your slides.
+A .PDF of your slides.
 
 Reminder on good presentation basics:
 
@@ -95,23 +93,25 @@ Reminder on good presentation basics:
 
 ## Peer Evaluation
 
-Peer evaluations are due December 4th by Midnight. Instructions are provided on Brightspace.
+Peer evaluations are due May 12th by Midnight. Instructions are provided on Brightspace.
 
 ## Clients and Policy Problems {#sec-clientoptions}
 
-You will have 3 options to choose from as a group. On the first day of class (August 26th), you will find a brief survey in Brightspace that will ask about your general availability for group collaboration and your client/policy problem preference to work on for the semester. I will do my best to assemble groups based on both availability and client preference, but, of course, I cannot guarantee that everyone will have perfect alignment. Below, I provide a description of your three options for clients/policy issues and some basic background materials to get you started (all of these problems have a great deal of literature for review and related issues to research).
+You will have 3 options to choose from as a group. On the first day of class (January 23rd), you will find a brief survey in Brightspace that will ask about your general availability for group collaboration and your client/policy problem preference to work on for the semester. I will do my best to assemble groups based on both availability and client preference, but, of course, I cannot guarantee that everyone will have perfect alignment. Below, I provide a description of your three options for clients/policy issues and some basic background materials to get you started (all of these problems have a great deal of literature for review and related issues to research).
 
-### Making the City Move
+### Restoring Urban Land
 
-The Metropolitan Transit Authority (MTA) 2020-2024 capital projects of needed infrastructure maintenance, upgrades, and accessibility improvements throughout the subway system in NYC is budgeted at \$54.8 billion. Approximately \$15 billion of the capital project budget was funded through both direct and indirect funds raised by the introduction of congestion pricing - a toll on drivers - in New York City's central business district. Prior to implementation of the congestion pricing program, Governor Hochul paused implementation, creating a \$15 billion shortfall in MTA's capital projects budget. The governor has promised to ensure the shortfall is covered, possibly even using congestion pricing in some form.
+In recent decades, urban highways, many initiated during the Eisenhower administration, have been both reaching their end of life and require infrastructural maintenance or reconsideration. Many cities have begun reconsidering urban highways entirely as a consequence of their size and potential externalities (emissions, traffic accidents). In Albany, I-787 has been considered for removal and change.
 
-Your team is to advise the governor on how to cover the budgetary shortfall for the MTA's capital projects fund. Since congestion pricing has been signed into law, you will need to devise two alternative funding paths relative to the status quo legislation of implementing congestion pricing, compare the three approaches, and make a recommendation based on your analysis to the governor.
+Your group is to advise Representative Gabriella Romero, Senator Patricia Fahy, and Governor Kathy Hochul on the direction to take with I-787.
 
-Status quo: Implement the congestion pricing program in the authorizing legislation.
+Status quo: Continue to maintain I-787 as is.
 
 #### Background materials
 
-Current budget overview: [MTA](https://new.mta.info/capital/2020CapitalProgram); Comptroller [statement](https://www.osc.ny.gov/press/releases/2024/05/dinapoli-mta-faces-growing-risks-its-capital-funding) and [report](https://www.osc.ny.gov/files/reports/osdc/pdf/report-3-2025.pdf) on budget shortfall direct impact and impact on the MTA cost of debt. [Environmental assessment](https://new.mta.info/project/CBDTP/environmental-assessment-2022) of the congestion pricing plan.
+Recent DOT study on potential removal: [DOT](https://webapps.dot.ny.gov/reimagining-i-787) 
+
+[New York Times coverage of similar project in Buffalo](https://www.nytimes.com/2024/05/07/us/politics/neighborhoods-split-highways.html?unlocked_article_code=1.rU4.FHbw.XcwW--OBZF0I&smid=url-share).
 
 ### Housing and Affordability
 
@@ -123,18 +123,20 @@ To get an introduction to the problem, start with this [report](https://www.fann
 
 Status Quo: Our current local, state, and federal system for approving and financing housing supply.
 
-Kamala Harris policy alternative: [See her campaign press release for her starting policy proposal](https://nlihc.org/resource/harris-campaign-releases-plans-lower-housing-costs).
+Democratic Party platform: [Platform for 2024](https://democrats.org/wp-content/uploads/2024/08/FINAL-MASTER-PLATFORM.pdf).
 
 Donald Trump policy alternative: [See his executive order from his previous administration](https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-tearing-red-tape-order-build-affordable-housing/).
 
 ### Revitalizing an Old Downtown
 
-The Greyhound bus station in downtown Albany has reached its end of life and the city is in the process of considering redevelopment proposals. Recently, a group of developers proposed replacing the current station and surrounding parking lots with a complex of hotels, businesses, and apartments anchored by a Major League Soccer stadium. For this project, both MLS and the NWLS have announced support for establishing teams if a stadium is built.[^1] A task force has been created that includes the Mayor of Albany, representatives from Empire State Development, representatives of the Capitalize Albany Foundation, and the Albany County government to discuss plans and funding for redeveloping the downtown site, including the currently proposed soccer stadium-based use.
+Governor Hochul has annouced a $200 million grant for revitalizing downtown Albany. At the same time, the Greyhound bus station in downtown Albany has reached its end of life and the city is in the process of considering redevelopment proposals. Recently, a group of developers proposed replacing the current station and surrounding parking lots with a complex of hotels, businesses, and apartments anchored by a Major League Soccer stadium. For this project, both MLS and the NWLS have announced support for establishing teams if a stadium is built.[^1] A task force has been created that includes the Mayor of Albany, representatives from Empire State Development, representatives of the Capitalize Albany Foundation, and the Albany County government to discuss plans and funding for redeveloping the downtown site, including the currently proposed soccer stadium-based use.
 
 [^1]: From here forward, the scenario is a fictionalized status of the proposal. In reality, the proposal is still seeking support from MLS and potential state support.
 
-The task force has hired you to prepare a report comparing alternatives for re-developing the 8-acre site downtown, currently owned by the Capitalize Albany Foundation on behalf of the city. One of the proposals under consideration is the proposed MLS stadium and surrounding hotel, business, and housing units. You are to describe the status quo land-use and develop an additional policy alternative to consider for the site. Analyze the the plans and make a recommendation to the task force.
+The task force has hired you to prepare a report comparing alternatives for re-developing the 8-acre site downtown, currently owned by the Capitalize Albany Foundation on behalf of the city. One of the proposals under consideration is the proposed MLS stadium and surrounding hotel, business, and housing units. You are to describe the status quo land-use and develop an additional policy alternative to consider for the site. Analyze the the plans and make a recommendation to the task force. Your budget limit is $200 million and can include additional projects downtown outside of the 8-acre site that would complement the efforts at the site.
 
 #### Background materials
 
 To get a sense of the proposed stadium development, read [these](https://www.wamc.org/news/2024-05-10/professional-soccer-team-and-stadium-proposed-for-albany) [three](https://cbs6albany.com/news/local/officials-developers-propose-300-million-liberty-park-development-with-soccer-stadium) [articles](https://www.timesunion.com/news/article/soccer-stadium-franchise-proposed-downtown-albany-19446433.php). As a starting point for your research, you can find a review of research on stadium projects [here](https://onlinelibrary-wiley-com.libproxy.albany.edu/doi/full/10.1002/pam.22534).
+
+### Helping a Non-Profit
