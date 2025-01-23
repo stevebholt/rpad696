@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "RPAD 696 - Integrative Capstone"
+  navbar:
+    background: secondary
+    left:
+      - text: "About"
+        file: index.qmd
+      - text: "Syllabus"
+        file: syllabus696.qmd
+      - text: "Assignments"
+        file: assignments.qmd
+
+  sidebar: 
+    - title: "Assignments"
+      style: "docked"
+      search: true
+      contents:
+        - assignments.qmd
+        - individual.qmd
+        - group.qmd
+        
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
