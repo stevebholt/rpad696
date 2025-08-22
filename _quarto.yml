@@ -11,8 +11,6 @@ website:
         file: index.qmd
       - text: "Syllabus"
         file: syllabus696.qmd
-      - text: "Assignments"
-        file: assignments.qmd
 
   sidebar: 
     - title: "Assignments"
