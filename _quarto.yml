@@ -12,7 +12,7 @@ website:
       - text: "Syllabus"
         file: syllabus696.qmd
       - text: "Assignments"
-        flie: assignments.qmd
+        file: assignments.qmd
         
   sidebar: 
     - title: "Assignments"

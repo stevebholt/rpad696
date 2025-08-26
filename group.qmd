@@ -113,8 +113,10 @@ Your team is to advise the county executive and mayor on how to manage and re-pu
 Status Quo: Minimal maintenance and security of the empty campus provided by the county government.
 
 #### Background materials
--[Coverage of the Purchase](https://www.wamc.org/news/2025-03-13/albany-county-plans-revitalization-as-purchase-of-shuttered-college-of-saint-rose-campus-advances)
--[Background About the Campus](https://www.advancealbanycounty.com/img/resources/ACPHLA_2501_RFP_For_Comprehensive_Planning_CSR_-_Final_530201.pdf)
+
+\-[Coverage of the Purchase](https://www.wamc.org/news/2025-03-13/albany-county-plans-revitalization-as-purchase-of-shuttered-college-of-saint-rose-campus-advances)\
+
+-[Background About the Campus](https://www.advancealbanycounty.com/img/resources/ACPHLA_2501_RFP_For_Comprehensive_Planning_CSR_-_Final_530201.pdf)\
 
 
 ### Funding Higher Education and Affordability
@@ -125,20 +127,28 @@ Higher education has long served a multitude of policy purposes: providing basic
 
 To get an introduction to the problem, start with this set of background readings on recent trends in the federal role in higher education funding:
 
--[Urban Institute](https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive)
--[National Council of State Legislatures](https://www.ncsl.org/education/the-state-federal-relationship-in-higher-education)
--[USA Facts](https://usafacts.org/articles/how-does-the-federal-government-support-education/)
+-[Urban Institute](https://www.urban.org/urban-wire/how-much-federal-funding-do-colleges-and-universities-receive)\
+
+-[National Council of State Legislatures](https://www.ncsl.org/education/the-state-federal-relationship-in-higher-education)\
+
+-[USA Facts](https://usafacts.org/articles/how-does-the-federal-government-support-education/)\
 
 Status Quo: The federal government's current role in funding higher education.
 
 Democratic party (if you choose this client):
--[House Democrats' Proposed Higher Education bill](https://democrats-edworkforce.house.gov/issues/roadmap-to-college-student-success)
+
+-[House Democrats' Proposed Higher Education bill](https://democrats-edworkforce.house.gov/issues/roadmap-to-college-student-success)\
+
 -[Center for American Progress Vision for Higher Education Policy](https://www.americanprogress.org/article/the-full-cost-of-attendance-addressing-housing-food-and-other-barriers-to-community-college-student-success/)
 
 Republican party (if you choose this client):
+
 -[American Enterprise Institute Vision for Higher Education](https://www.aei.org/research-products/report/a-conservative-vision-for-higher-education-reform/)
+
 -[Summary Reporting on Higher Education portion of BBB](https://www.npr.org/2025/07/24/nx-s1-5477646/student-loan-repayment-forgiveness-trump)
+
 -[Executive Order on Research Grants](https://www.whitehouse.gov/presidential-actions/2025/08/improving-oversight-of-federal-grantmaking/)
+
 -[Nature Coverage of Executive Order](https://www.nature.com/articles/d41586-025-02557-z)
 
 ::: callout-note
@@ -156,6 +166,7 @@ The status quo for this scenario does not exist as a policy. Thus, there should 
 
 #### Background materials
 Information about the proposed grant can be found here:
+
 [Downtown Albany Strategy](https://downtownalbanystrategy.com/)
 
 To get a sense of the proposed stadium development, read [these](https://www.wamc.org/news/2024-05-10/professional-soccer-team-and-stadium-proposed-for-albany) [three](https://cbs6albany.com/news/local/officials-developers-propose-300-million-liberty-park-development-with-soccer-stadium) [articles](https://www.timesunion.com/news/article/soccer-stadium-franchise-proposed-downtown-albany-19446433.php). As a starting point for your research, you can find a review of research on stadium projects [here](https://onlinelibrary-wiley-com.libproxy.albany.edu/doi/full/10.1002/pam.22534)
