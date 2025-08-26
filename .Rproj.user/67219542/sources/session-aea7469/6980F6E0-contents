@@ -11,7 +11,9 @@ website:
         file: index.qmd
       - text: "Syllabus"
         file: syllabus696.qmd
-
+      - text: "Assignments"
+        flie: assignments.qmd
+        
   sidebar: 
     - title: "Assignments"
       style: "docked"

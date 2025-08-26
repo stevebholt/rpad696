@@ -1,14 +1,14 @@
 {
-    "id": "858AAD2D",
-    "path": "C:/Users/sh372234/OneDrive/sites/rpad696/individual.qmd",
-    "project_path": "individual.qmd",
+    "id": "693FD90C",
+    "path": "C:/Users/sh372234/OneDrive/sites/rpad696/group.qmd",
+    "project_path": "group.qmd",
     "type": "quarto_markdown",
-    "hash": "1821628323",
+    "hash": "3805077624",
     "contents": "",
     "dirty": false,
-    "created": 1737497509480.0,
+    "created": 1737497814414.0,
     "source_on_save": true,
-    "relative_order": 2,
+    "relative_order": 3,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,15 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "7,768",
-        "scrollLine": "0",
-        "rmdVisualModeLocation": "69:315.3333435058594"
+        "cursorPosition": "8,264",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732643417,
+    "lastKnownWriteTime": 1756241567,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732643417,
+    "last_content_update": 1756241567382,
     "read_only": false,
     "read_only_alternatives": []
 }
