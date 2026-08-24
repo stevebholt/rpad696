@@ -19,7 +19,7 @@ The mission of the Rockefeller College of Public Affairs and Policy Master of Pu
 RPAD 696 "Integrative Capstone" is the culmination of this learning process. As such, during this course, students will apply the competencies, knowledge, and skills they have acquired throughout the program to a semester-long case study project in a fictional setting. Course assignments will require students to synthesize and apply skills and material from across the MPA curriculum, individually and in teams. Toward that end, students will be preparing a semester-long research report for a client that will detail the knowledge base about a particular policy issue, develop a description of the status quo and two policy alternatives, present data and evidence regarding the expected effects and costs of the alternatives, and conclude with a recommendation to the client.
 
 ::: callout-important
-**NOTE:** This class is listed as a hybrid online class with some synchronous meetings throughout the semester (see @sec-schedule below). The first meeting (**August 27th**) is mandatory. From there, the rest are optional. However, one person from each group must attend.
+**NOTE:** This class is listed as a hybrid online class with some synchronous meetings throughout the semester (see @sec-schedule below). The first meeting (**August 27th**) and the last meeting (**December 10th**) is mandatory for everyone. From there, the rest are optional. However, one person from each group must attend.
 :::
 
 ### Required Materials
