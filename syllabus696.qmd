@@ -9,7 +9,7 @@ title: "Syllabus"
 👨‍🏫: Stephen Holt, Ph.D.\
 📅: Asynchronous Online\
 📧: sbholt\@albany.edu\
-🏫: Mondays and Thursdays from 3:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min); in-person in Milne 324 or online in [Zoom](https://albany.zoom.us/my/sbholt).\
+🏫: Mondays and Fridays from 3:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min); in-person in Milne 324 or online in [Zoom](https://albany.zoom.us/my/sbholt).\
 ☎️: 518-442-3309
 
 ## Course Description
@@ -17,6 +17,10 @@ title: "Syllabus"
 The mission of the Rockefeller College of Public Affairs and Policy Master of Public Administration (MPA) Program is to develop leaders, managers, and advanced analysts who excel in public service within government and across sectors. The MPA curriculum emphasizes the development of technical and managerial skills toward the responsible and ethical uses of discretion in the pursuit exemplary personal and organizational performance (see @sec-appendix for a list of the competencies). The MPA's mission and curriculum reflects the faculty's commitment to producing committed and engaged public servants whose actions embody public service ideals.
 
 RPAD 696 "Integrative Capstone" is the culmination of this learning process. As such, during this course, students will apply the competencies, knowledge, and skills they have acquired throughout the program to a semester-long case study project in a fictional setting. Course assignments will require students to synthesize and apply skills and material from across the MPA curriculum, individually and in teams. Toward that end, students will be preparing a semester-long research report for a client that will detail the knowledge base about a particular policy issue, develop a description of the status quo and two policy alternatives, present data and evidence regarding the expected effects and costs of the alternatives, and conclude with a recommendation to the client.
+
+::: callout-important
+**NOTE:** This class is listed as a hybrid online class with some synchronous meetings throughout the semester (see @sec-schedule below). The first meeting (**August 17th**) is mandatory. From there, the rest are optional. However, one person from each group must attend.
+:::
 
 ### Required Materials
 
@@ -26,43 +30,44 @@ The course materials will all be shared through the course Brightspace and this 
 
 As a capstone class, this class is centered around two primary assignments:
 
-1.  An individual assignment to produce a segment of the analysis for the case study final report.
-2.  A group assignment to produce a final report - a section of which will be drawn from the individual assignment.
+1.  An individual assignment to produce a report demonstrating compentency in a broad range of MPA-related skills.
+2.  A group assignment to produce a final report on a salient policy and administration issue that demonstrates all MPA competencies.
 
-Unlike most courses, this course is ensuring an application and synthesis of program skills and materials. As a result, there are not weekly modules and not necessarily new skills or content taught week to week. Instead, we will follow a biweekly meeting schedule (see detailed course schedule below) and most meetings will allow for groups to coordinate their work in-person and ask any questions they might have of the instructor. 
+Unlike most courses, this course is ensuring an application and synthesis of program skills and materials. As a result, there are not weekly modules and not necessarily new skills or content taught week to week. Instead, we will follow a biweekly meeting schedule (see detailed course schedule below) and most meetings will allow for groups to coordinate their work and ask any questions they might have of the instructor. 
 
 ## Assignments
 
 ### Individual Assignment
 
-For the individual assignment, students are expected to write a memo (max 2 pages) detailing their project timeline, laying out and explaining the rationale for interim deadlines, and how they will coordinate with team members with overlapping responsibilities (e.g., communication expectations, meeting plans, etc.). This memo will be due *October 13th* alongside your 1-page outline of your plan for your group assignment.
+For the individual assignment, students are expected to write a brief (2 pages) summarizing a detailed and well-researched stakeholder assessment and management plan for the administrative problem outlined in the individual assignment materials. This memo will be due **October 13th** alongside your 1-page outline of your plan for your group assignment.
 
-At the end of the semester, students will then assess one other groupmate on their success in executing the project plan outlined in their memo. They will summarize that groupmate's contributions to their substantive parts in the group assignment and their performance in upholding the project plan they outline in their memo. This will be due *December 12* alongside peer evaluations.
+In addition, you will need to complete peer evaluations of each of your group mates (due **December 12th**; details provided during the course via Brightspace) and complete the MPA Exit Survey (dur **December 12th**; details provided during the course via Brightspace).
 
 ### Group Assignment
 
-The group assignment will have four deliverables: 1) a group roles contract (details will be provided on Brightspace) submitted for instructor review (due **September 29th**); 2) an outline of the group's approach to the case (due **October 13th**); 3) the final research report (due **December 10th**); and 4) a group final presentation and a polished presentation from all members (due **December 10th**).
+The group assignment will have four deliverables: 1) a group roles contract (details will be provided on Brightspace) submitted for instructor review (due **September 29th**); 2) an outline of the group's approach to the selected case (due **October 13th**); 3) the final research report (due **December 10th**); and 4) a group final presentation and a polished presentation from all members (due **December 10th**).
 
 ### Grading
 
 The course grade consists of:
 
--   Group contract: 10 points
+-   Group contract: 5 points
 -   Final report: 30 points
 -   Individual assignment: 30 points
--   Presentations: 20 points
--   Peer evaluations: 10 points
+-   Presentations: 10 points
+-   Peer evaluations: 20 points
+-   Complete exit survey: 5 points
 
-## Detailed Course Schedule
+## Detailed Course Schedule {#sec-schedule}
 
 | Date | Assignment | Readings |
 |:-------------:|:---------------------------------------:|:-------------:|
-| 8/25 | First class - Introduction and Syllabus | | 
-| 9/29 | Group Roles Contract and Client Selection Due |  |
-| 10/6 | Writing Literature Reviews |  |
-| 10/13 | 1-page outline of group appraoch |  |
-| 10/31 | Comparing Alternatives and Analysis |  |
-| 11/14 | Stakeholders and Political Analysis | |
+| 8/27 | First class - Introduction and Syllabus | | 
+| 9/10 | Group Roles Contract and Client Selection Due |  |
+| 9/24 | Writing Literature Reviews |  |
+| 10/8 | 1-page outline of group appraoch |  |
+| 10/22 | Comparing Alternatives and Analysis |  |
+| 11/5 | Stakeholders and Political Analysis | |
 | 12/10 | Final presentations, final reports due | |
 
 ::: callout-note

@@ -3,15 +3,100 @@ title: "Individual Assignment"
 bibliography: references.bib
 ---
 
-## Overview
-For the individual assignment, you are expected to write a memo (max 2 pages) detailing your project timeline, laying out and explaining the rationale for interim deadlines, and how you will coordinate with team members with overlapping responsibilities (e.g., communication expectations, meeting plans, etc.). Your plan should include reference to roles and responsibilities from the group contracts and consider issues such as communication with other members of your team and fairness in the distribution of both the formal and informal work of the project. This memo will be due *October 13th* alongside your 1-page outline of your plan for your group assignment.
+## SCENARIO: FLINT’S WATER INFRASTRUCTURE REMEDIATION
 
-At the end of the semester, you will then assess one other groupmate on their success in executing the project plan outlined in their memo. You will summarize their contributions to their substantive parts in the group assignment and their performance in upholding the project plan they outline in their memo. This will be due *December 12* alongside peer evaluations. 
+In 2014, the City of Flint switched its water source to the Flint River
+without adequate corrosion control, resulting in lead leaching into the
+drinking water supply. The crisis triggered widespread health impacts,
+national outrage, and a breakdown of trust between residents and
+government at all levels. Since 2016, Flint has been engaged in
+long-term remediation efforts, including:
 
-## Format
+-   Replacing lead service lines
+-   Ensuring compliance with federal drinking water standards
+-   Managing legal settlements and court oversight
+-   Rebuilding public trust
+-   Coordinating across federal, state, and local agencies
+-   Addressing community trauma and environmental justice concerns
+
+Despite progress, the work remains politically sensitive, technically
+complex, and emotionally charged, making coordinated stakeholder
+management essential for sustaining momentum, rebuilding trust, and
+ensuring that implementation decisions reflect community needs and legal
+obligations.
+
+### Assignment
+
+Given this context, produce a 2 page brief that provides a stakeholder
+analysis and a management strategy for advancing Flint’s water
+remediation and infrastructure replacement goals. Your brief must
+address the following four components clearly and concisely:
+
+1.  Identification of stakeholders
+
+Map the most relevant stakeholders for Flint’s water infrastructure
+remediation strategy, taking into account governmental stakeholders (at
+the local, state, and federal level), community and civil society
+stakeholders, and other key stakeholders (e.g., media, public health
+researchers, etc.), and build a power/interest grid.
+
+2.  Analysis of stakeholder dynamics
+
+Choose four of the most important stakeholders and explain their
+position in the power/interest grid. Discuss how history, power, and
+legitimacy may shape stakeholder behavior. You may also take your
+analysis of stakeholders further by, among others, reflecting on:
+
+-   Conflicts between state and local government
+-   Community mistrust of official agencies
+-   Tensions between speed and accuracy in infrastructure replacement
+-   Legal and regulatory pressures
+-   Equity concerns (e.g., historically marginalized communities)
+
+3.  Stakeholder management strategy
+
+Given the analysis conducted of four key stakeholders, propose a
+management strategy for those four stakeholders that addresses:
+
+-   Engagement approaches: Inform, consult, involve, collaborate,
+    empower
+-   Expectations management
+-   Conflict mitigation
+-   Leveraging support
+-   Adaptive management
+
+### ADDITIONAL INFORMATION
+
+Format
 
 -   12-point Times New Roman
--   Standard 1" margins
--   APA formatting for citations
+-   Standard 1” margins • APA formatting for citations
 -   Single spaced
--   Name in top left corner of first page
+-   2 pages with a third page for citations as needed
+-   Name on document and in file name
+
+This assignment is assessing Competency 2:
+
+To participate in and contribute to the policy process
+
+-   Inform the design, implementation, and/or evaluation of policy.
+-   Identify and manage stakeholder interests and expectations within
+    existing constraints to achieve policy goals.
+
+References you can use to complete this assignment:
+
+-   About Flint’s water crisis: Denchak, M. (2025). “[Flint water
+    crisis: Everything you need to
+    know](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know)”.
+    Natural Resources Defense Council (July).
+
+-   About stakeholder analysis:
+
+    -   Eden, C. & Ackermann, F. (1998). “Stakeholder analysis and
+        management.” In Eden, C. & Ackermann, F. Stakeholder analysis
+        and management (p.113-135). Thousand Oaks, CA: Sage Publishing.
+    -   Fung, A. (2003). “Survey article: Recipes for public spheres:
+        Eight institutional design choices and their consequences”.
+        Journal of Political Philosophy, 11(3): 338–367.
+    -   Bryson, J. (2004). “What to do when stakeholders matter”. Public
+        Management Review, 6(1): 21-53.
